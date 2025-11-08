@@ -1,0 +1,224 @@
+[2025-11-08T00:00:27.185+0000] {processor.py:161} INFO - Started process (PID=1140) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:00:27.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:00:27.223+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:00:27.221+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:00:31.030+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:00:31.103+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:00:31.102+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:00:31.224+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:00:31.224+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:00:31.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 4.123 seconds
+[2025-11-08T00:01:01.598+0000] {processor.py:161} INFO - Started process (PID=1143) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:01.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:01:01.606+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:01.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:02.947+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:02.982+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:02.981+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:01:03.068+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:03.068+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:01:03.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.509 seconds
+[2025-11-08T00:01:33.524+0000] {processor.py:161} INFO - Started process (PID=1146) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:33.527+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:01:33.533+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:33.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:34.867+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:01:34.900+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:34.900+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:01:34.928+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:01:34.928+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:01:34.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.464 seconds
+[2025-11-08T00:02:05.351+0000] {processor.py:161} INFO - Started process (PID=1149) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:05.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:02:05.356+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:05.355+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:06.719+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:06.752+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:06.752+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:02:06.780+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:06.780+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:02:06.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.466 seconds
+[2025-11-08T00:02:37.334+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:37.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:02:37.341+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:37.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:38.648+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:02:38.696+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:38.695+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:02:38.726+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:02:38.726+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:02:38.761+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.445 seconds
+[2025-11-08T00:03:09.141+0000] {processor.py:161} INFO - Started process (PID=1155) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:09.143+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:03:09.148+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:09.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:10.556+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:10.603+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:10.602+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:03:10.637+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:10.637+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:03:10.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.534 seconds
+[2025-11-08T00:03:41.036+0000] {processor.py:161} INFO - Started process (PID=1158) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:41.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:03:41.044+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:41.041+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:42.187+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:03:42.228+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:42.227+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:03:42.266+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:03:42.265+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:03:42.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.268 seconds
+[2025-11-08T00:04:12.418+0000] {processor.py:161} INFO - Started process (PID=1161) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:12.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:04:12.423+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:12.423+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:13.691+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:13.729+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:13.729+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:04:13.764+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:13.764+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:04:13.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.388 seconds
+[2025-11-08T00:04:44.060+0000] {processor.py:161} INFO - Started process (PID=1164) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:44.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:04:44.071+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:44.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:45.291+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:04:45.330+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:45.329+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:04:45.361+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:04:45.361+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:04:45.391+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.354 seconds
+[2025-11-08T00:05:15.825+0000] {processor.py:161} INFO - Started process (PID=1167) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:15.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:05:15.831+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:15.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:17.034+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:17.069+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:17.068+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:05:17.103+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:17.102+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:05:17.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.319 seconds
+[2025-11-08T00:05:47.271+0000] {processor.py:161} INFO - Started process (PID=1170) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:47.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:05:47.276+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:47.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:48.649+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:05:48.685+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:48.685+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:05:48.714+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:05:48.714+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:05:48.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.489 seconds
+[2025-11-08T00:06:18.973+0000] {processor.py:161} INFO - Started process (PID=1173) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:18.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:06:18.978+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:18.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:20.186+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:20.226+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:20.226+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:06:20.263+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:20.263+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:06:20.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.334 seconds
+[2025-11-08T00:06:50.468+0000] {processor.py:161} INFO - Started process (PID=1176) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:50.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:06:50.473+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:50.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:52.061+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:06:52.095+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:52.094+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:06:52.125+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:06:52.125+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:06:52.157+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.703 seconds
+[2025-11-08T00:07:22.545+0000] {processor.py:161} INFO - Started process (PID=1179) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:22.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:07:22.554+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:22.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:23.800+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:23.848+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:23.847+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:07:23.887+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:23.886+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:07:23.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.406 seconds
+[2025-11-08T00:07:54.334+0000] {processor.py:161} INFO - Started process (PID=1182) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:54.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:07:54.342+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:54.341+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:55.718+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:07:55.765+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:55.763+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:07:55.805+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:07:55.805+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:07:55.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.535 seconds
+[2025-11-08T00:08:26.218+0000] {processor.py:161} INFO - Started process (PID=1185) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:08:26.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:08:26.224+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:08:26.223+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:08:28.072+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:08:28.127+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:08:28.126+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:08:28.231+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:08:28.228+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:08:28.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 2.136 seconds
+[2025-11-08T00:08:58.646+0000] {processor.py:161} INFO - Started process (PID=1188) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:08:58.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:08:58.651+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:08:58.651+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:08:59.961+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:09:00.035+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:09:00.034+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:09:00.077+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:09:00.077+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:09:00.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.480 seconds
+[2025-11-08T00:09:30.526+0000] {processor.py:161} INFO - Started process (PID=1191) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:09:30.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:09:30.531+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:09:30.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:09:32.050+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:09:32.087+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:09:32.086+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:09:32.118+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:09:32.118+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:09:32.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.641 seconds
+[2025-11-08T00:10:02.429+0000] {processor.py:161} INFO - Started process (PID=1194) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:02.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:10:02.435+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:02.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:03.675+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:03.714+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:03.714+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:10:03.744+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:03.744+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:10:03.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.390 seconds
+[2025-11-08T00:10:33.956+0000] {processor.py:161} INFO - Started process (PID=1197) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:33.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:10:33.966+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:33.965+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:35.444+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:10:35.486+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:35.485+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:10:35.512+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:10:35.511+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:10:35.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.590 seconds
+[2025-11-08T00:11:05.963+0000] {processor.py:161} INFO - Started process (PID=1200) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:05.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:11:05.970+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:05.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:07.267+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:07.311+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:07.310+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:11:07.344+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:07.343+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:11:07.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.421 seconds
+[2025-11-08T00:11:37.774+0000] {processor.py:161} INFO - Started process (PID=1203) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:37.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:11:37.780+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:37.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:39.379+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:11:39.463+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:39.462+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:11:39.513+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:11:39.512+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:11:39.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.789 seconds
+[2025-11-08T00:12:09.792+0000] {processor.py:161} INFO - Started process (PID=1206) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:09.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:12:09.800+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:09.799+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:11.106+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:11.158+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:11.158+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:12:11.202+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:11.202+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:12:11.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.448 seconds
+[2025-11-08T00:12:41.489+0000] {processor.py:161} INFO - Started process (PID=1209) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:41.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:12:41.495+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:41.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:42.909+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:12:42.964+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:42.962+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:12:43.004+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:12:43.004+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:12:43.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.563 seconds
+[2025-11-08T00:13:13.398+0000] {processor.py:161} INFO - Started process (PID=1212) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:13.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:13:13.404+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:13.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:14.852+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:14.903+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:14.902+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:13:14.936+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:14.936+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:13:14.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.589 seconds
+[2025-11-08T00:13:45.354+0000] {processor.py:161} INFO - Started process (PID=1215) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:45.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:13:45.360+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:45.358+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:46.486+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:13:46.523+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:46.523+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:13:46.555+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:13:46.555+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:13:46.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.252 seconds
+[2025-11-08T00:14:17.261+0000] {processor.py:161} INFO - Started process (PID=1218) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:17.264+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:14:17.269+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:17.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:18.498+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:18.534+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:18.533+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:14:18.566+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:18.565+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:14:18.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.349 seconds
+[2025-11-08T00:14:49.075+0000] {processor.py:161} INFO - Started process (PID=1221) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:49.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:14:49.081+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:49.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:50.493+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:14:50.535+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:50.535+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:14:50.567+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:14:50.567+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:14:50.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.570 seconds
+[2025-11-08T00:15:20.950+0000] {processor.py:161} INFO - Started process (PID=1224) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:20.954+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:15:20.958+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:20.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:22.587+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:22.624+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:22.623+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:15:22.661+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:22.661+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:15:22.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.753 seconds
+[2025-11-08T00:15:53.146+0000] {processor.py:161} INFO - Started process (PID=1227) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:53.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:15:53.151+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:53.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:54.538+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:15:54.580+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:54.578+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:15:54.628+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:15:54.627+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:15:54.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.552 seconds
+[2025-11-08T00:16:25.156+0000] {processor.py:161} INFO - Started process (PID=1230) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:25.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:16:25.165+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:25.164+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:27.464+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:27.542+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:27.540+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:16:27.612+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:27.612+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:16:27.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 2.540 seconds
+[2025-11-08T00:16:58.187+0000] {processor.py:161} INFO - Started process (PID=1233) to work on /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:58.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/minio-to-kafka.py for tasks to queue
+[2025-11-08T00:16:58.193+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:58.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:59.629+0000] {processor.py:840} INFO - DAG(s) 'spotify_minio_to_snowflake_bronze' retrieved from /opt/airflow/dags/minio-to-kafka.py
+[2025-11-08T00:16:59.672+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:59.672+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-08T00:16:59.710+0000] {logging_mixin.py:188} INFO - [2025-11-08T00:16:59.709+0000] {dag.py:3947} INFO - Setting next_dagrun for spotify_minio_to_snowflake_bronze to 2025-11-08 00:00:00+00:00, run_after=2025-11-08 01:00:00+00:00
+[2025-11-08T00:16:59.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/minio-to-kafka.py took 1.560 seconds
