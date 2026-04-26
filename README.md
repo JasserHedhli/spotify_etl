@@ -194,6 +194,7 @@ Before loading, the pipeline enforces:
 **Jasser Hedhli** — Data Scientist & PhD Researcher  
 [LinkedIn](https://linkedin.com/in/jasser-hedhli) · [GitHub](https://github.com/JasserHedhli) · jesserhedhli@gmail.com
 
+[GitHubLink](https://github.com/JasserHedhli/spotify_etl.git) 
 ---
 
 ## 📄 License
