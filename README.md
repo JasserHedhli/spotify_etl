@@ -2,6 +2,10 @@
 
 A production-style Python ETL pipeline that extracts a user's recently played tracks from the **Spotify Web API**, applies data quality checks and transformations, and loads the cleaned data into a local database — fully automated for scheduled execution.
 
+```bash
+GitHub Link : https://github.com/JasserHedhli/spotify_etl.git
+```
+
 ---
 
 ## 📌 Project Overview
@@ -193,8 +197,6 @@ Before loading, the pipeline enforces:
 
 **Jasser Hedhli** — Data Scientist & PhD Researcher  
 [LinkedIn](https://linkedin.com/in/jasser-hedhli) · [GitHub](https://github.com/JasserHedhli) · jesserhedhli@gmail.com
-
-[GitHubLink](https://github.com/JasserHedhli/spotify_etl.git) 
 ---
 
 ## 📄 License
